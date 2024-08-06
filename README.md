@@ -26,13 +26,13 @@ This is a simple TODO application built with HTML, CSS, JavaScript, and Bootstra
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/todo-app.git
+    git clone https://github.com/KaanAy14/Todo-List-Project.git
     ```
 
 2. Open the project directory:
 
     ```bash
-    cd todo-app
+    cd Todo-List-Project
     ```
 
 3. Open `index.html` in your preferred web browser.
